@@ -5,7 +5,7 @@ public class Hello {
 		string s;
 		System.out.println("Hello");
 		string a;
-
+        i = 10;
 	}
 
 }
